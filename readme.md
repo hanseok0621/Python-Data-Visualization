@@ -1,5 +1,8 @@
 # Hybrid Manufacturing Systems (HMS) Dataset README
 
+## 🛠 프로젝트 기간
+- 2025년 4월 / 총 1주일
+
 ## 📂 Dataset Overview
 본 프로젝트에서 사용된 데이터셋은 Kaggle에서 제공하는 "Manufacturing Production Data"입니다.
 
